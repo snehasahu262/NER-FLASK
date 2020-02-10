@@ -1,0 +1,135 @@
+*{
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+.dropdown-menu {
+    background-color: #d4d4d4 !important;
+}
+.sidebar[data-background-color="black"] .nav li .dropdown-menu .dropdown-item {
+    color: #333 !important;
+}
+.content{
+	 background-color: rgba(31,40,62,0.94);
+	 margin-bottom:40px;
+    margin-top: 40px !important;
+
+}
+.main-panel{
+	 background-color: rgba(31,40,62,0.94);
+}
+.card1{
+	background:#ffffff !important;
+	 margin: 12px 0px;
+    border-radius: 10px;
+    border: 1px solid #616161;
+    padding: 1rem 1.25rem !important;
+}
+.card2{
+	background: #d4d4d4 !important;
+	 margin: 12px 0px;
+    border-radius: 10px;
+    border: 1px solid #616161;
+    padding: 1rem 1.25rem !important;
+}
+.label_css{
+	color:#333333 !important;
+}
+.bold{
+	font-weight:bold;
+	color:#333333 !important;
+}
+
+.heading > a {
+  display: block;
+  position: relative;
+}
+.heading > a:after {
+  content: "\f078"; /* fa-chevron-down */
+  font-family: 'FontAwesome';
+  position: absolute;
+  right: 0;
+}
+.heading > a[aria-expanded="true"]:after {
+  content: "\f077"; /* fa-chevron-up */
+}
+.heading a{
+	font-size:16px;
+	text-decoration:none;
+}
+.heading a:hover{
+	color:#ffffff;
+	text-decoration:none;
+}
+.body_data{
+	background:#ffffff;
+}
+.button_css{
+	position: absolute;
+    top: 0px;
+    right: 72px;
+	color: #fff !important;
+    background-color: #007bff !important;
+    border-color: #007bff !important;
+	width:15%;
+}
+.button_css1{
+	color: #fff !important;
+    background-color: #007bff !important;
+    border-color: #007bff !important;
+	
+}
+.progress_css{
+    position: absolute;
+    width: 30%;
+    top: 14px;
+    left: 250px;
+}
+.progress-bar{
+	    background-color: #28a745 !important;
+}
+.icon_css{
+   color: rgba(255, 255, 255, 0.8) !important;
+	line-height: 20px !important;
+}
+.card_css{
+	    margin-bottom: 6px;
+    margin-top: 6px;
+}
+.fixed-top{
+    position: fixed !important;
+    margin-left: 260px;
+    width: 81% !important;
+    background-color: #1a2035 !important;
+	box-shadow:none !important;
+}
+.label_css{
+	color:#333333 !important;
+	font-weight:bold;
+}
+.footer_css{
+	position: fixed;
+    width: 81%;
+    bottom: 0px;
+    padding: 0px;
+    z-index: 1099;
+    background-color: #1a2035 !important;
+}
+.select_dropdown{
+	color:#333 !important;
+}
+.flashes li{
+    list-style:none;
+    color:green;
+}
+.dark-edition .form-control {
+    color: #333;
+}
+.fixed_heighttable{
+    height: 300px;
+    overflow-y: scroll !important;
+    overflow-x: hidden !important;
+}
+.fixed_heighttable th{
+    white-space: nowrap;
+}

@@ -1,0 +1,30 @@
+[
+ {
+  "id": 0,
+  "name": "Global_active_power"
+ },
+ {
+  "id": 1,
+  "name": "Global_reactive_power"
+ },
+ {
+  "id": 2,
+  "name": "Voltage"
+ },
+ {
+  "id": 3,
+  "name": "Global_intensity"
+ },
+ {
+  "id": 4,
+  "name": "Sub_metering_1"
+ },
+ {
+  "id": 5,
+  "name": "Sub_metering_2"
+ },
+ {
+  "id": 6,
+  "name": "Sub_metering_3"
+ }
+]
